@@ -1,0 +1,3 @@
+0 Đội mũ bảo hiểm
+1 Không đội mũ bảo hiểm
+2 Không có người
